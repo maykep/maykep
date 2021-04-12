@@ -15,7 +15,7 @@ Tive experiência em trabalhar com sistema SAP fazendo a integração com **Exce
 - 📚 Estudando atualmente Java Swing e principios de Python.
 - :musical_note:  Sertanejo, Eletronica, e um pouco de tudo além das principais.
 - :video_game: Gosto de passar um pouco do meu tempo livre jogando, nada especifico apenas jogos estratégicos e claro um bom FPS.
-- :vhs: Viciado em filmes e séries, principalmente se quando é de terror.
+- :vhs: Viciado em filmes e séries, principalmente quando é de terror.
 
  ## Contato
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/mayke-paiva-67778b129/) [![Gmail](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](maykepaiva.mgap@gmail.com)  [![Instagram](https://img.shields.io/badge/--instragram?label=Intragram&logo=Instagram&style=social)](https://www.instagram.com/_rduartesam_/) <img src="https://komarev.com/ghpvc/?username=maykep&label=Profile%20views&color=0e75b6&style=social" alt="Mayke Gabriel Antunes de Paiva" />
