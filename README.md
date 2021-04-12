@@ -7,7 +7,7 @@
 
 Eu sou Mayke Paiva tenho 27 anos, recentemente me mudei para Curitiba-PR, atualmente estou trabalhando como desenvolvedor de JAVA mas como estou a um bom tempo em contato com tecnologia e programação então tenho conhecimento em diversas areas de programação como **C#**, **C++**, **Python**, **Javascript**, **VBA**, **HTML**, entre várias outras porém são as que tenho mais conhecimento e facilidade de utilizar.
 Tive experiência em trabalhar com sistema SAP fazendo a integração com **Excel** com Manipulação e Análise de dados, com isso tive grande aprendizado com macro em **Excel VBA**.
-
+Já utilizei diversos SGBD(sistema de gerenciamento de banco de dados) tanto para trabalho quanto para estudos: PostgreSQL, Workbench, Access, MySql, SqlServer.
 
 - 🎓 Cursando 1º Ano de Engenharia de Software atualmente em <a href="https://www.pucpr.br/"> Pontifícia Universidade Católica do Paraná. </a>
 - 🎓 Formado em Técnico em Desenvolvimento do Sistema - ETEC- Sylvio de Mattos Carvalho
