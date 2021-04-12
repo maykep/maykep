@@ -1,5 +1,7 @@
 ## Hello World!
+
 <br>
+
  ![JAVA](https://img.shields.io/badge/Java--Swing-Intermediate-yellow) ![HTML](https://img.shields.io/badge/HTML-Basic-orange) ![CSS](https://img.shields.io/badge/CSS-Basic-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-Basic-green) ![Python](https://img.shields.io/badge/Python-Basic-brightgreen) ![Excel VBA](https://img.shields.io/badge/Excel_VBA-Intermediate-brightgreen) ![SGBD](https://img.shields.io/badge/SGBD-Intermediate-lightgrey)
 
 
@@ -8,16 +10,16 @@ Tive experiência em trabalhar com sistema SAP fazendo a integração com **Exce
 
 
 - 🎓 Cursando 1º Ano de Engenharia de Software atualmente em <a href="https://www.pucpr.br/"> Pontifícia Universidade Católica do Paraná. </a>
-- 🎓 Formado em Técnico em Desenvolvimento do Sistema - ETEC- Sylvio 
+- 🎓 Formado em Técnico em Desenvolvimento do Sistema - ETEC- Sylvio de Mattos Carvalho
 - :computer: Trabalho atualmente como Desenvolvedor Trainne em JAVA.
 - 📚 Estudando atualmente Java Swing e principios de Python.
 - :musical_note:  Sertanejo, Eletronica, e um pouco de tudo além das principais.
 - :video_game: Gosto de passar um pouco do meu tempo livre jogando, nada especifico apenas jogos estratégicos e claro um bom FPS.
-- :vhs: Viciado em filmes e séries, principalmente quando é de terror.
+- :vhs: Viciado em filmes e séries, principalmente se quando é de terror.
 
-
-## Contatos
+ ## Contato
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/mayke-paiva-67778b129/) [![Gmail](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](maykepaiva.mgap@gmail.com)  [![Instagram](https://img.shields.io/badge/--instragram?label=Intragram&logo=Instagram&style=social)](https://www.instagram.com/_rduartesam_/) <img src="https://komarev.com/ghpvc/?username=maykep&label=Profile%20views&color=0e75b6&style=social" alt="Mayke Gabriel Antunes de Paiva" />
+
 
 ## Tecnologias, Ferramentas e Linguagens
 
